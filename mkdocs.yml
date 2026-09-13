@@ -1,7 +1,7 @@
 site_name: Bazel Learning
 
 theme:
-  name: mkdocs
+  name: material
 
 nav:
   - Home: index.md
