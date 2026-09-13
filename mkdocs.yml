@@ -1,0 +1,69 @@
+site_name: Bazel Learning
+
+theme:
+  name: mkdocs
+
+nav:
+  - Home: index.md
+  - Lesson 1:
+      - Problem 1.1: lesson_01/problem_1_1.md
+      - Explanation 1.1: lesson_01/explanation_1_1.md
+  - Lesson 2:
+      - Problem 2.1: lesson_02/problem_2_1.md
+      - Explanation 2.1: lesson_02/explanation_2_1.md
+  - Lesson 3:
+      - Problem 3.1: lesson_03/problem_3_1.md
+      - Explanation 3.1: lesson_03/explanation_3_1.md
+  - Lesson 4:
+      - Problem 4.1: lesson_04/problem_4_1.md
+      - Explanation 4.1: lesson_04/explanation_4_1.md
+      - Problem and Explanation 4.2: lesson_04/problem_4_2.md
+      - Problem and Explanation 4.3: lesson_04/problem_4_3.md
+  - Lesson 5:
+      - Problem 5.1: lesson_05/problem_5_1.md
+      - Explanation 5.1: lesson_05/explanation_5_1.md
+  - Lesson 6:
+      - Problem 6.1: lesson_06/problem_6_1.md
+      - Explanation 6.1: lesson_06/explanation_6_1.md
+      - Problem 6.2: lesson_06/problem_6_2.md
+      - Explanation 6.2: lesson_06/explanation_6_2.md
+      - Problem 6.3: lesson_06/problem_6_3.md
+      - Explanation 6.3: lesson_06/explanation_6_3.md
+  - Lesson 7:
+      - Problem 7.1: lesson_07/problem_7_1.md
+      - Explanation 7.1: lesson_07/explanation_7_1.md
+      - Problem 7.2: lesson_07/problem_7_2.md
+      - Explanation 7.2: lesson_07/explanation_7_2.md
+      - Problem 7.3: lesson_07/problem_7_3.md
+      - Explanation 7.3: lesson_07/explanation_7_3.md
+  - Lesson 8:
+      - Problem 8.1: lesson_08/problem_8_1.md
+      - Explanation 8.1: lesson_08/explanation_8_1.md
+      - Problem 8.2: lesson_08/problem_8_2.md
+      - Explanation 8.2: lesson_08/explanation_8_2.md
+      - Problem 8.3: lesson_08/problem_8_3.md
+      - Explanation 8.3: lesson_08/explanation_8_3.md
+      - Problem 8.4: lesson_08/problem_8_4.md
+      - Explanation 8.4: lesson_08/explanation_8_4.md
+      - Problem 8.5: lesson_08/problem_8_5.md
+      - Explanation 8.5: lesson_08/explanation_8_5.md
+  - Lesson 9:
+      - Problem 9.1: lesson_09/problem_9_1.md
+      - Explanation 9.1: lesson_09/explanation_9_1.md
+      - Problem 9.2: lesson_09/problem_9_2.md
+      - Explanation 9.2: lesson_09/explanation_9_2.md
+      - Problem 9.3: lesson_09/problem_9_3.md
+      - Explanation 9.3: lesson_09/explanation_9_3.md
+      - Problem 9.4: lesson_09/problem_9_4.md
+      - Explanation 9.4: lesson_09/explanation_9_4.md
+      - Problem 9.5: lesson_09/problem_9_5.md
+      - Explanation 9.5: lesson_09/explanation_9_5.md
+      - Problem 9.6: lesson_09/problem_9_6.md
+      - Explanation 9.6: lesson_09/explanation_9_6.md
+      - Problem 9.7: lesson_09/problem_9_7.md
+      - Explanation 9.7: lesson_09/explanation_9_7.md
+      - Problem 9.8: lesson_09/problem_9_8.md
+      - Explanation 9.8: lesson_09/explanation_9_8.md
+      - Problem 9.9: lesson_09/problem_9_9.md
+      - Explanation 9.9: lesson_09/explanation_9_9.md
+
