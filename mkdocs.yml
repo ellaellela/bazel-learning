@@ -1,7 +1,7 @@
 site_name: Bazel Learning
 
 theme:
-  name: material
+  name: materialx
 
 nav:
   - Home: index.md
